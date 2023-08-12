@@ -79,6 +79,7 @@ Here's a running list of some organizations using GoReleaser[^1]:
 1. [Zitatel](https://zitadel.com)
 1. [pdfcpu](https://pdfcpu.io)
 1. [prestd](https://prestd.com)
+   [01Founders](https://01founders.co)
 
 Feel free to [add yours](https://github.com/goreleaser/goreleaser/edit/main/USERS.md)!
 
